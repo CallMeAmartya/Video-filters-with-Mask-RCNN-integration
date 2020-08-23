@@ -17,9 +17,7 @@ Demonstrated below are gifs of some of the few effects you can recreate with thi
 
 |**Demo 1**|**Demo 2**|
 | :--: | :--: |
-```
-|![](demo/fujing.gif)|![](demo/nikki.gif)|
-```
+|![](demo/Dance.gif)|![](demo/danceoutline.gif)|
 
 
 ## Usage
