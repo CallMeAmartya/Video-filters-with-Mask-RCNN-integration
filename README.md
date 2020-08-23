@@ -13,6 +13,15 @@ Apart from the usual packages, to run Filters.py you will need:
 With Filters.py you can apply various effects to your video:  
 grey_back, blur_back, bright_object, sharp_object, sharp_back, cartoon_back, warm_front_cold_black, edge_person, pencil_sketch_back  
 
+Demonstrated below are gifs of some of the few effects you can recreate with this code:  
+
+|**Demo 1**|**Demo 2**|
+| :--: | :--: |
+```
+|![](demo/fujing.gif)|![](demo/nikki.gif)|
+```
+
+
 ## Usage
 
 As an exammple, in terminal enter the following:
