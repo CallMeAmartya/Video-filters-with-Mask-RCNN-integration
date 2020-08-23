@@ -15,9 +15,13 @@ grey_back, blur_back, bright_object, sharp_object, sharp_back, cartoon_back, war
 
 Demonstrated below are gifs of some of the few effects you can recreate with this code:  
 
-|**Original**|**edge_person**|
-| :--: | :--: |
-|![](demo/Dance.gif)|![](demo/danceoutline.gif)|
+|**Original**|**edge_person**|  
+| :--: | :--: |  
+|![](demo/Dance.gif)|![](demo/danceoutline.gif)|  
+
+|**grey_back**|**blur_back**|  
+| :--: | :--: |  
+|![](demo/Dance.gif)|![](demo/danceoutline.gif)|  
 
 
 ## Usage
